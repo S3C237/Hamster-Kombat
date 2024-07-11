@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Launching Hamster Kombat in the browser
-// @author       a-Homous
+// @author       Homous
 // @match        *://*.hamsterkombat.io/*
 // @grant        none
 // @icon         http://89.106.206.41/homous/HAMSTERICON.png
@@ -31,6 +31,7 @@
     const newUserAgent = getRandomiOSUserAgent();
 
     // Function to replace the script URL
+    // Function to replace the script URLs
     function replaceScriptUrl() {
         // List of URLs to replace
         const urlsToReplace = [
