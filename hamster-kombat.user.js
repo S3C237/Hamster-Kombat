@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Launching Hamster Kombat in the browser
-// @author       Homous
+// @author       a-Homous
 // @match        *://*.hamsterkombat.io/*
 // @grant        none
 // @icon         http://89.106.206.41/homous/HAMSTERICON.png
