@@ -7,9 +7,9 @@
 // @author       Homous
 // @grant        none
 // @icon         http://89.106.206.41/homous/HAMSTERICON.png
-// @downloadURL  https://raw.githubusercontent.com/amir-homous/Hamster-Kombat/main/hamster-autoclicker.user.js
-// @updateURL    https://raw.githubusercontent.com/amir-homous/Hamster-Kombat/main/hamster-autoclicker.user.js
-// @homepage     https://github.com/amir-homous/Hamster-Kombat
+// @downloadURL  https://raw.githubusercontent.com/S3C237/Hamster-Kombat/main/hamster-autoclicker.user.js
+// @updateURL    https://raw.githubusercontent.com/S3C237/Hamster-Kombat/main/hamster-autoclicker.user.js
+// @homepage     https://github.com/S3C237/Hamster-Kombat
 // ==/UserScript==
 
 
