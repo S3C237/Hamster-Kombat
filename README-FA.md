@@ -9,37 +9,37 @@
 ---
 
 ## نحوه اجرا
-- افزونه را در مرورگر خود نصب کنید [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be) | [FireFox](https://addons.mozilla.org/firefox/addon/violentmonkey/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
+- افزونه را در مرورگر خود نصب کنید [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) | [FireFox](https://addons.mozilla.org/firefox/addon/violentmonkey/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
 - برای باز کردن **Hamster Kombat** در مرورگر، [این اسکریپت](https://github.com/S3237/Hamster-Kombat/raw/main/hamster-kombat.user.js) را نصب کنید.
 - برای نصب **autoclicker**، [این اسکریپت](https://github.com/S3237/Hamster-Kombat/raw/main/hamster-autoclicker.user.js) را نصب کنید.
 - [ربات Hamster Kombat](https://t.me/hamstEr_kombat_bot/start?startapp=kentId665346234) را باز کنید و بازی را اجرا کنید.
 
-## ![نتیجه](result.gif)
+#
 
 ---
 
 > [!TIP]
 > سایر repositori ها
 > 
-> - [Hamster Kombat + Autoclicker](https://github.com/amir-homous/Hamster-Kombat)
+> - [Hamster Kombat + Autoclicker](https://github.com/S3C237/Hamster-Kombat)
 > 
-> - [TapSwap + Autoclicker](https://github.com/amir-homous/TapSwap)
+> - [TapSwap + Autoclicker](https://github.com/S3C237/TapSwap)
 > 
-> - [Blum + Autoclicker](https://github.com/amir-homous/Blum)
+> - [Blum + Autoclicker](https://github.com/S3C237/Blum)
 >
-> - [PixelTap + Autoclicker](https://github.com/amir-homous/PixelTap)
+> - [PixelTap + Autoclicker](https://github.com/S3C237/PixelTap)
 > 
-> - [MemeFi + Autoclicker](https://github.com/amir-homous/MemeFi-Coin)
+> - [MemeFi + Autoclicker](https://github.com/S3C237/MemeFi-Coin)
 >
-> - [Yescoin + Autoclicker](https://github.com/amir-homous/Yescoin)
+> - [Yescoin + Autoclicker](https://github.com/S3C237/Yescoin)
 >
-> - [Gemz + Autoclicker](https://github.com/amir-homous/Gemz)
+> - [Gemz + Autoclicker](https://github.com/S3C237/Gemz)
 >
-> - [Сrossfi + Autoclicker](https://github.com/amir-homous/Crossfi)
+> - [Сrossfi + Autoclicker](https://github.com/S3C237/Crossfi)
 >
-> - [BUMP](https://github.com/amir-homous/BUMP)
+> - [BUMP](https://github.com/S3C237/BUMP)
 >
-> - [W-Coin](https://github.com/amir-homous/W-Coin)
+> - [W-Coin](https://github.com/S3C237/W-Coin)
 
 ---
 
