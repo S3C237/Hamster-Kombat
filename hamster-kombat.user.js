@@ -31,7 +31,6 @@
     const newUserAgent = getRandomiOSUserAgent();
 
     // Function to replace the script URL
-    // Function to replace the script URLs
     function replaceScriptUrl() {
         // List of URLs to replace
         const urlsToReplace = [
