@@ -10,8 +10,8 @@
 
 ## نحوه اجرا
 - افزونه را در مرورگر خود نصب کنید [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be) | [FireFox](https://addons.mozilla.org/firefox/addon/violentmonkey/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
-- برای باز کردن **Hamster Kombat** در مرورگر، [این اسکریپت](https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-kombat.user.js) را نصب کنید.
-- برای نصب **autoclicker**، [این اسکریپت](https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-autoclicker.user.js) را نصب کنید.
+- برای باز کردن **Hamster Kombat** در مرورگر، [این اسکریپت](https://github.com/S3237/Hamster-Kombat/raw/main/hamster-kombat.user.js) را نصب کنید.
+- برای نصب **autoclicker**، [این اسکریپت](https://github.com/S3237/Hamster-Kombat/raw/main/hamster-autoclicker.user.js) را نصب کنید.
 - [ربات Hamster Kombat](https://t.me/hamstEr_kombat_bot/start?startapp=kentId665346234) را باز کنید و بازی را اجرا کنید.
 
 ## ![نتیجه](result.gif)
